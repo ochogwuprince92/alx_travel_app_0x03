@@ -12,6 +12,7 @@ dj-database-url==3.0.1
 Django==5.2.4
 djangorestframework==3.16.0
 drf-yasg==1.21.10
+gunicorn==23.0.0
 idna==3.10
 inflection==0.5.1
 kombu==5.5.4
